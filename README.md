@@ -1,3 +1,4 @@
 # chat
-npm install
+##usage
+npm install  
 npm run
